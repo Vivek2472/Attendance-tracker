@@ -1,0 +1,5 @@
+{
+  "name": "Attendance Tracker",
+  "description": "A comprehensive attendance tracker for students to manage subjects, schedules, and daily check-ins.",
+  "requestFramePermissions": []
+}
